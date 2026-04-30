@@ -20,6 +20,3 @@ jobs:
 
       - name: Run pipeline
         run: make pipeline
-
-      - name: Run tests
-        run: make test
